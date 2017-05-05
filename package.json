@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flash Card project for class",
+  "main": "flashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakebeaube/flashcard-generator.git"
+  },
+  "author": "Jake Beaube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakebeaube/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/jakebeaube/flashcard-generator#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.0.6"
+  }
+}
